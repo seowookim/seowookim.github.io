@@ -1,1 +1,3 @@
-# seowookim.github.io
+어떠한 내용
+  
+  안녕하세요. 처음으로 readme.md를 작성해봅니다. 
